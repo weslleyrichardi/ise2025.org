@@ -3,6 +3,6 @@ The website aims to optimize renewable energy: advanced strategies for greater e
 
 
 # Tools:
-- Wordpress
-- Elementor
-- And many other plugins
+- WORDPRESS
+- ELEMENTOR
+- AND MANY OTHER PLUGINS
